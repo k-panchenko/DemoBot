@@ -1,1 +1,4 @@
-
+bot:
+  token: YOUR_TOKE
+  username: k_panchenko_test_2_bot
+  start-secret: my-secret-key
